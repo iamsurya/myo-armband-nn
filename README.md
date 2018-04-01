@@ -1,5 +1,18 @@
 # myo-armband-nn
-Gesture recognition using [myo armband](https://www.myo.com) via neural network (tensorflow library).
+This is a fork of the [myo-armband-nn github project](https://github.com/exelban/myo-armband-nn/).
+
+## Changes made after fork
+Added entries to .gitignore
+Added ipynotebook files to train and test that explain the code and model better.
+
+## Instructions
+
+Clone this repository.
+Train the model using python train.py or training.ipynb
+Test (Predict labels) using python3 predict_train_dataset.py or Predict_train_dataset.ipynb
+
+## Description
+The project performs gesture recognition using [myo armband](https://www.myo.com) via neural network (tensorflow library).
 ![](https://s3.eu-central-1.amazonaws.com/serhiy/Github_repo/myo-armband-nn-logo.jpg)
 
 

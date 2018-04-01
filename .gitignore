@@ -1,3 +1,7 @@
 .idea/
 /data/collection_data.py
 /data/prepare_data.py
+/data/tensorflow_sessions
+.ipynb_checkpoints/
+/include/__pycache__
+*-testing.ipynb
